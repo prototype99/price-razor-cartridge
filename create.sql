@@ -8,7 +8,7 @@ CREATE TABLE data (
   handle BOOL NOT NULL,
   quantity tinyint(1) NOT NULL,
   cost DECIMAL(6,3) NOT NULL,
-  razorCost DECIMAL(3,1),
+  razorCost DECIMAL(4,2),
   url tinytext NOT NULL,
   key id (id)
 );
