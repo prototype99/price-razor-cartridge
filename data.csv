@@ -23,8 +23,9 @@ id,handle,quantity,price,razorCost,url
 ,1,1,23.2,,https://www.ebay.co.uk/itm/233551034438
 ,1,1,23.58,,https://www.ebay.co.uk/itm/324010278388
 ,1,1,24.22,,https://www.ebay.co.uk/itm/153927704315
+,1,1,27.98,,https://www.ebay.co.uk/itm/283884067977
 ,1,1,28.87,,https://www.ebay.co.uk/itm/151755678470
-,1,2,9.99,,https://www.ebay.co.uk/itm/153672756184
+,1,2,12.98,,https://www.ebay.co.uk/itm/153672756184
 ,1,2,29.8,,https://www.notino.co.uk/gillette/fusion-proglide-flexball-shaver/p-554689/
 ,1,2,30,,https://www.shavers.co.uk/gillette-81694754-fusion-proglide-power-flexball-razor.html
 ,1,2,55.08,,https://www.ebay.co.uk/itm/193326369320
@@ -47,6 +48,8 @@ id,handle,quantity,price,razorCost,url
 ,0,4,11.41,,https://www.amazon.co.uk/dp/B004ASOR9I
 ,0,4,11.49,,https://www.ebay.co.uk/itm/142811951275
 ,0,4,11.75,,https://www.ebay.co.uk/itm/274063123895
+,0,4,11.75,,https://www.ebay.co.uk/itm/153915421421
+,0,4,11.89,,https://www.ebay.co.uk/itm/153876959799
 ,0,4,11.95,,https://www.ebay.co.uk/itm/163750319003
 ,0,4,11.97,,https://www.ebay.co.uk/itm/202665360741
 ,0,4,12.05,,https://www.amazon.co.uk/dp/B008BH9CKS
@@ -89,6 +92,8 @@ id,handle,quantity,price,razorCost,url
 ,1,6,37.9,,https://www.ebay.co.uk/itm/221689178746
 ,0,8,16.49,,https://www.ebay.co.uk/itm/233553096404
 ,0,8,16.95,,https://www.ebay.co.uk/itm/202953995011
+,0,8,16.99,,https://www.ebay.co.uk/itm/293585374218
+,0,8,16.99,,https://www.ebay.co.uk/itm/324128603439
 ,0,8,17,,https://www.ebay.co.uk/itm/152980764207
 ,0,8,17.2,,https://www.ebay.co.uk/itm/274333531141
 ,0,8,17.2,,https://www.ebay.co.uk/itm/373026966728
@@ -105,7 +110,9 @@ id,handle,quantity,price,razorCost,url
 ,0,8,20.36,,https://www.ebay.co.uk/itm/193465003715
 ,0,8,21.25,,https://www.amazon.co.uk/dp/B008BH9CW6
 ,0,8,21.37,,https://www.amazon.co.uk/dp/B00R10ZV9M
+,0,8,21.95,,https://www.ebay.co.uk/itm/153541120652
 ,0,8,21.99,,https://www.ebay.co.uk/itm/114136613920
+,0,8,21.99,,https://www.ebay.co.uk/itm/303060109943
 ,0,8,22.5,,https://www.superdrug.com/p/442851
 ,0,8,22.95,,https://www.ebay.co.uk/itm/163748115391
 ,0,8,22.98,,https://www.ebay.co.uk/itm/223266061296
@@ -139,12 +146,14 @@ id,handle,quantity,price,razorCost,url
 ,0,8,36.5,,https://www.clearchemist.co.uk/gillette-blade-proglide-pwr.html
 ,0,8,37.08,,https://www.ebay.co.uk/itm/392758835724
 ,0,8,39.74,,https://www.ebay.co.uk/itm/402218742841
+,0,8,59.99,,https://www.ebay.co.uk/itm/333571883329
 ,0,8,63.07,,https://www.ebay.co.uk/itm/114125842564
 ,0,8,79.34,,https://www.ebay.co.uk/itm/383065067193
 ,1,8,91.25,,https://www.ebay.co.uk/itm/184227860111
 ,1,9,20,,https://www.ebay.co.uk/itm/324167981570
 ,0,10,27.49,,https://www.ebay.co.uk/itm/114210927770
 ,0,10,32.99,,https://www.amazon.co.uk/dp/B008P0M56E
+,0,12,36.45,,https://www.ebay.co.uk/itm/113734559804
 ,0,12,39.99,,https://www.ebay.co.uk/itm/183538046611
 ,0,12,42.78,,https://www.amazon.co.uk/dp/B0792P739P
 ,0,12,60.71,,https://www.ebay.co.uk/itm/402218823909
@@ -159,6 +168,7 @@ id,handle,quantity,price,razorCost,url
 ,0,14,52.09,,https://www.amazon.co.uk/dp/B07982T3RV
 ,0,14,59.95,,https://www.ebay.co.uk/itm/124158716199
 ,0,16,32.6,,https://www.ebay.co.uk/itm/353045339003
+,0,16,37.2,,https://www.ebay.co.uk/itm/223868885900
 ,0,16,37.98,,https://www.ebay.co.uk/itm/333563390526
 ,0,16,41.36,,https://www.ebay.co.uk/itm/182432912397
 ,0,16,57.32,,https://www.ebay.co.uk/itm/162478260782
