@@ -4,10 +4,10 @@ USE razors;
 SET SQL_MODE="EMPTY_STRING_IS_NULL,STRICT_TRANS_TABLES";
 
 CREATE TABLE data (
-  id tinyint(3) NOT NULL AUTO_INCREMENT,
+  id tinyint(3) UNSIGNED NOT NULL AUTO_INCREMENT,
   handle BOOL NOT NULL,
   quantity tinyint(1) NOT NULL,
-  cost DECIMAL(5,2) NOT NULL,
+  cost DECIMAL(6,3) NOT NULL,
   razorCost DECIMAL(3,1),
   url tinytext NOT NULL,
   key id (id)
