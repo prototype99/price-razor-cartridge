@@ -1,4 +1,4 @@
-id,handle,quantity,price,razorCost,url
+id,handle,quantity,cost,razorCost,url
 ,1,1,9.99,,https://www.superdrug.com/p/375107
 ,1,1,11.36,,https://www.amazon.co.uk/dp/B00APFDF0C
 ,1,1,13.99,,https://www.ebay.co.uk/itm/15325753123
