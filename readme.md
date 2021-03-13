@@ -1,1 +1,4 @@
-manual update for ebay data required
+codes:
+p	proglide
+pp	proglide power
+ps	proshield
