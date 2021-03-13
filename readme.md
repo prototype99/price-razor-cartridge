@@ -1,3 +1,4 @@
+note that handle specifically refers to a power handle. regular fusion is excluded because the blades are blunter
 codes:
 op	old proglide	5 blades	anti friction blades	no microfin	1 lubrication strip			old stock
 pp	proglide power	5 blades	anti friction blades	microfins	1 lubrication strip			old stock
