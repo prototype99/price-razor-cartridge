@@ -62,7 +62,7 @@ id,handle,type,quantity,cost,razorCost,url
 ,0,pp,14,43.63,,https://www.ebay.co.uk/itm/182454096483
 ,0,pp,8,24.95,,https://www.ebay.co.uk/itm/264507293809
 ,0,pp,56,174.8,,https://www.ebay.co.uk/itm/174265940307
-,0,pp,4,11.99,,https://www.ebay.co.uk/itm/183181987253
+,0,pp,3,9.49,,https://www.ebay.co.uk/itm/183181987253
 ,0,op,8,24.99,,https://www.amazon.co.uk/dp/B01MY82JKS
 ,0,pp,8,25,,https://www.amazon.co.uk/dp/B00R10ZV9M
 ,0,pp,4,12.5,,https://www.ebay.co.uk/itm/193471359075
@@ -308,7 +308,6 @@ id,handle,type,quantity,cost,razorCost,url
 ,0,ps,4,9.49,,https://www.ebay.co.uk/itm/353131991991
 ,0,op,1,7.45,,https://www.ebay.co.uk/itm/124402635184
 ,0,op,1,7.2,,https://www.ebay.co.uk/itm/174654700539
-,0,op,1,7.19,,https://www.ebay.co.uk/itm/324491703919
 ,0,ps,1,7,,https://www.ebay.co.uk/itm/193789545060
 ,0,ps,1,7,,https://www.ebay.co.uk/itm/174238813520
 ,0,op,4,25.2,,https://www.ebay.co.uk/itm/224302048662
@@ -357,3 +356,5 @@ id,handle,type,quantity,cost,razorCost,url
 ,0,ps,1,8.7,,https://www.ebay.co.uk/itm/333250620793
 ,0,ps,4,22.28,,https://www.ebay.co.uk/itm/333578292454
 ,0,op,1,8.89,,https://www.ebay.co.uk/itm/382953216247
+,0,ps,1,8.95,,https://www.ebay.co.uk/itm/163385402218
+,0,pp,4,8.95,,https://www.ebay.co.uk/itm/324472713896
