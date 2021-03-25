@@ -1,5 +1,5 @@
 id,handle,type,quantity,cost,razorCost,url
-,0,pc,4,7.79,,https://www.ebay.co.uk/itm/363217988363
+,0,pp,16,29.56,,https://www.ebay.co.uk/itm/402548324444
 ,0,op,4,8.19,,https://www.ebay.co.uk/itm/383886128802
 ,0,ps,16,33.28,,https://www.ebay.co.uk/itm/153876959799
 ,0,op,4,8.41,,https://www.ebay.co.uk/itm/264826380825
@@ -27,6 +27,7 @@ id,handle,type,quantity,cost,razorCost,url
 ,0,pp,4,9,,https://www.ebay.co.uk/itm/223998141895
 ,0,pp,8,18,,https://www.ebay.co.uk/itm/273116882842
 ,0,pp,16,37.2,,https://www.ebay.co.uk/itm/223868885900
+,0,pc,4,9.39,,https://www.ebay.co.uk/itm/363217988363
 ,0,op,8,18.81,,https://www.amazon.co.uk/dp/B00QPVRP4W
 ,0,pp,8,18.84,,https://www.ebay.co.uk/itm/293548811651
 ,0,pp,4,9.49,,https://www.ebay.co.uk/itm/184284066579
@@ -298,6 +299,7 @@ id,handle,type,quantity,cost,razorCost,url
 ,0,p,1,8.75,,https://www.sainsburys.co.uk/gol-ui/product/gillette-proglide-flexball-manual-razor
 ,0,op,1,8.89,,https://www.ebay.co.uk/itm/382953216247
 ,0,ps,1,8.95,,https://www.ebay.co.uk/itm/163385402218
+,0,ps,1,8.95,,https://www.ebay.co.uk/itm/324439376717
 ,0,op,4,35.95,,https://www.amazon.co.uk/dp/B00CEU3D1C
 ,0,pc,1,8.99,,https://www.amazon.co.uk/dp/B018M3GBSQ
 ,1,pp,3,26.99,,https://www.ebay.co.uk/itm/254496827559
@@ -363,5 +365,3 @@ id,handle,type,quantity,cost,razorCost,url
 ,1,pp,1,27.98,,https://www.ebay.co.uk/itm/283884067977
 ,1,pp,1,28.87,,https://www.ebay.co.uk/itm/151755678470
 ,1,pp,1,33.48,,https://www.amazon.co.uk/dp/B005SPMINE
-,0,pp,16,29.56,,https://www.ebay.co.uk/itm/402548324444
-,0,ps,1,8.95,,https://www.ebay.co.uk/itm/324439376717
