@@ -1,5 +1,5 @@
 handle,type,packsize,cost,razorCost,url
-0,p,12,27.95,2.3291666666666666,https://www.ebay.co.uk/itm/153538954636
+0,p,10,23.99,2.399,https://www.ebay.co.uk/itm/153538954636
 0,ps,4,9.89,2.4725,https://www.ebay.co.uk/itm/363248427242
 0,pc,4,9.98,2.495,https://www.ebay.co.uk/itm/153915421421
 0,pc,4,9.99,2.4975,https://www.ebay.co.uk/itm/363217988363
@@ -22,7 +22,6 @@ handle,type,packsize,cost,razorCost,url
 0,ps,3,8.2,2.733333333333333,https://www.ebay.co.uk/itm/393127883231
 0,p,12,32.9,2.7416666666666667,https://www.amazon.co.uk/dp/B08R7N7W4V
 0,pp,8,21.95,2.74375,https://www.ebay.co.uk/itm/153541120652
-0,p,8,16.99,2.12375,https://www.ebay.co.uk/itm/353473659927
 0,p,4,10.99,2.7475,https://www.ebay.co.uk/itm/353359574487
 0,pp,8,21.99,2.74875,https://www.ebay.co.uk/itm/114136613920
 0,pp,8,21.99,2.74875,https://www.ebay.co.uk/itm/303060109943
